@@ -1,7 +1,7 @@
 # Low-cost-3D-scanning-platform-with-Nordic-NRF51822
 Using Nordic NRF51822 to develop a 3D scanning platform
 ## Device 
-    1. Nordic Nrf51822 demoboard  
+    1. Nordic NRF51822 demoboard  
     2. TFT screen
     3. motor
         a. FT6325M
