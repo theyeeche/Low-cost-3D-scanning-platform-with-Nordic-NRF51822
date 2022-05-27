@@ -18,3 +18,8 @@ Using Nordic NRF51822 to develop a 3D scanning platform
 > Also you can see the [website](https://raytaccorpblog.wordpress.com/2018/12/18/nordic-nrf5-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83%E6%9E%B6%E8%A8%AD%E4%BB%8B%E7%B4%B9%EF%BD%9E%E7%87%92%E9%8C%84%E6%BA%96%E5%82%99%E8%88%87%E7%A8%8B%E5%BA%8F/) to build the enviriment.
 ## Nordic demoboard
 - This demoboard is [艾克姆科技]IK-51822DK. 
+## Model we made
+We have put the model we made on the [Sketchfeb](https://sketchfab.com/TSChen11011/models).
+
+This model is shoot by a phone.
+
