@@ -2,16 +2,28 @@
 Using Nordic NRF51822 to develop a 3D scanning platform
 ## Device 
     1. Nordic NRF51822 demoboard
-    2. Jlink
+    2. J-link Emulator
     3. TFT screen
     4. servo motor
         a. FT6325M
         b. MG996R
-    5. some Dupont Line
+    5. some Dupont Line with breadboard
+    6. tripod and some screws and nuts
+## Device image
+
+    1. Nordic NRF51822 demoboard with TFT screen
 ![image](https://user-images.githubusercontent.com/61655288/170490703-f90de2c8-a176-4a43-b3be-993b50b3bc9a.png)
+
+    2. J-link Emulator
 ![image](https://user-images.githubusercontent.com/61655288/170493625-c09ec641-2d96-4d49-95b4-1e36f499a18c.png)
+
+    3. servo motor assemble with tripod, screws and nuts
 ![image](https://user-images.githubusercontent.com/61655288/170490846-005ebd4d-1adc-4fe2-b68a-f7772d0a867f.png)
 ![image](https://user-images.githubusercontent.com/61655288/170491353-3e82a405-244d-4df1-9fd0-75647888eae7.png)
+
+    4. connect motor platform and NRF51822 with breadboard
+![image](https://user-images.githubusercontent.com/106368378/170849759-5f6aeba9-810b-4983-9320-077fa2280fc3.png)
+
 ## In order to burn the .hex file into the demoboard, you need to install nRFgo studio
 > https://www.nordicsemi.com/Products/Development-tools/nrfgo-studio/download
 > 
