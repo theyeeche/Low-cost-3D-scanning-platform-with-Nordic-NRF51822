@@ -19,7 +19,7 @@ Using Nordic NRF51822 to develop a 3D scanning platform
 ## Nordic demoboard
 - This demoboard is [艾克姆科技]IK-51822DK. 
 ## Model we made
-We have put the model we made on the [Sketchfeb](https://sketchfab.com/TSChen11011/models).
+We have put some models we made on the [Sketchfeb](https://sketchfab.com/TSChen11011/models).
 
-This model is shoot by a phone.
+These model is shoot by a phone.
 
