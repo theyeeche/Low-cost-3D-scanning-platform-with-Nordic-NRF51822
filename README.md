@@ -21,18 +21,19 @@ Using Nordic NRF51822 to develop a 3D scanning platform
 ![image](https://user-images.githubusercontent.com/61655288/170490846-005ebd4d-1adc-4fe2-b68a-f7772d0a867f.png)
 ![image](https://user-images.githubusercontent.com/61655288/170491353-3e82a405-244d-4df1-9fd0-75647888eae7.png)
 
+
     4. connect motor platform and NRF51822 with breadboard
-![image](https://user-images.githubusercontent.com/106368378/170849759-5f6aeba9-810b-4983-9320-077fa2280fc3.png)
+![Screenshot 2022-06-01 133412](https://user-images.githubusercontent.com/61655288/171334863-ef7a70ea-cff0-4417-be0a-8cac4bb0e6e1.jpg)
 
 ## In order to burn the .hex file into the demoboard, you need to install nRFgo studio
 > https://www.nordicsemi.com/Products/Development-tools/nrfgo-studio/download
 > 
 > Also you can see the [website](https://raytaccorpblog.wordpress.com/2018/12/18/nordic-nrf5-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83%E6%9E%B6%E8%A8%AD%E4%BB%8B%E7%B4%B9%EF%BD%9E%E7%87%92%E9%8C%84%E6%BA%96%E5%82%99%E8%88%87%E7%A8%8B%E5%BA%8F/) to build the enviriment.
 
-Low-Cost 3D scanning platform.hex(for demoboard application) and s130_nrf51_2.0.1_softdevice.hex(for bluetooth) both need to burn into NRF51822.
+Low-Cost 3D scanning platform.hex(for demoboard application) and s130_nrf51_2.0.1_softdevice.hex(for bluetooth) both need to be burned into nRF51822.
 ## Nordic demoboard
 - This demoboard is [艾克姆科技]IK-51822DK. 
-## Model we made
+## Models we made
 We have put some models we made on the [Sketchfeb](https://sketchfab.com/TSChen11011/models).
 
 These model is shoot by a phone.
