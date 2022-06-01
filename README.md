@@ -37,6 +37,7 @@ Low-Cost 3D scanning platform.hex(for demoboard application) and s130_nrf51_2.0.
 - [3D platform instrution](https://youtu.be/hdIYlYf8qlM)
 - [Shooting process](https://youtu.be/mUotJo15O_0)
 - [Accuracy and model fixing](https://youtu.be/Ttu4n94e5I0)
+- [PROJECT PRESENTATION](https://youtu.be/DpwlYcBCUIo)
 ## Models we made
 We have put some models we made on the [Sketchfeb](https://sketchfab.com/TSChen11011/models).
 
